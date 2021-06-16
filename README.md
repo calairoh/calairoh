@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Davide, current master’s degree student at Politecnico di Milano in Computer Science & Engineering with a passion for the cloud engineering and big data.
 
 <!--
 **calairoh/calairoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
