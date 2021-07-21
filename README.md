@@ -12,6 +12,6 @@ Some info:
 - ❗️ Opened issue [#48](https://github.com/oracle/pgql-lang/issues/48) in [https://github.com/oracle/pgql-lang](https://github.com/oracle/pgql-lang)
 
 ### 💻 Some stats
-![Calairoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=calairoh&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calairoh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Calairoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=calairoh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark)  
+![Calairoh's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=calairoh&include_all_commits=true&hide_border=true&theme=dark)  
 
