@@ -11,7 +11,7 @@ Some info:
 - ❗️ Opened issue [#4152](https://github.com/pytorch/vision/issues/4152) in [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
 - ❗️ Opened issue [#48](https://github.com/oracle/pgql-lang/issues/48) in [https://github.com/oracle/pgql-lang](https://github.com/oracle/pgql-lang)
 
-### 💻 Most Used Languages
-- 🥇 <a href="https://sourcerer.io/calairoh"><img src="https://img.shields.io/badge/Java-323%20commits-orange.svg" alt=""></a>
-- 🥈 <a href="https://sourcerer.io/calairoh"><img src="https://img.shields.io/badge/JavaScript-171%20commits-orange.svg" alt=""></a>
-- 🥉 <a href="https://sourcerer.io/calairoh"><img src="https://img.shields.io/badge/Kotlin-123%20commits-orange.svg" alt=""></a>
+### 💻 Some stats
+![Calairoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=calairoh&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calairoh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
