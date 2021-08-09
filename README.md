@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Davide, current master’s degree student at Politecnico di Milano in Computer Science & Engineering with a passion for the cloud engineering and big data.
+I'm Davide, current master’s degree student at Politecnico di Milano in Computer Science & Engineering with an interest in cloud engineering, big data and machine learning.
 
 Some info:
 - 🔭 I’m currently working on Convolutional Variational AutoEncoders (CVAE) for unsupervised anomaly detection
