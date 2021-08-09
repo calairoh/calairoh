@@ -7,6 +7,7 @@ Some info:
 - 📫 How to reach me: davide@calabro.dev
 
 ### ⚡ Recent Activity
+- 📖 Published [research results](https://data-life-website.herokuapp.com/) of the DATA-LIFE 2021 Project (PoliMi-NYU): <b>Analyze and represent the behavior of young generations towards blood donations</b>
 - 🗣️ Commented on issues [#4152](https://github.com/pytorch/vision/issues/4152) in [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
 - ❗️ Opened issue [#4152](https://github.com/pytorch/vision/issues/4152) in [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
 - ❗️ Opened issue [#48](https://github.com/oracle/pgql-lang/issues/48) in [https://github.com/oracle/pgql-lang](https://github.com/oracle/pgql-lang)
