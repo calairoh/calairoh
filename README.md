@@ -1,12 +1,13 @@
 ### Hi there 👋
-I'm Davide, current master’s degree student at Politecnico di Milano in Computer Science & Engineering with an interest in cloud engineering, big data and machine learning.
+I'm Davide, currently Software Engineer at Mia-Platform with an interest in cloud & software engineering and machine learning.
 
 Some info:
-- 🔭 I’m currently working on Convolutional Variational AutoEncoders (CVAE) for unsupervised anomaly detection
-- 🌱 I’m currently learning PyTorch
+- 🔭 I’m currently working on Vector-Quantized Variational AutoEncoders (VQ-VAE) for unsupervised and semisupervised anomaly detection
+- 🌱 I’m currently learning PyTorch & NodeJS
 - 📫 How to reach me: davide@calabro.dev
 
 ### ⚡ Recent Activity
+- ❗️ Opened issue [#203](https://github.com/mia-platform/custom-plugin-lib/issues/203) in [https://github.com/mia-platform/custom-plugin-lib](https://github.com/mia-platform/custom-plugin-lib)
 - 📖 Published [research results](https://data-life-website.herokuapp.com/) of the DATA-LIFE 2021 Project (PoliMi-NYU): <b>Analyze and represent the behavior of young generations towards blood donations</b>
 - 🗣️ Commented on issues [#4152](https://github.com/pytorch/vision/issues/4152) in [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
 - ❗️ Opened issue [#4152](https://github.com/pytorch/vision/issues/4152) in [https://github.com/pytorch/vision](https://github.com/pytorch/vision)
